@@ -1,5 +1,8 @@
 plotter_oop_numpy_v5.py
 
+![Beschrijving van GUI](plotter2.png)
+
+
 Copyright 2025 nap0
 
 This program is free software; you can redistribute it and/or modify
